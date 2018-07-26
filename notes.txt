@@ -1,0 +1,1 @@
+Command to run tesseract from the terminal - tesseract ~/Desktop/90.png stdout
